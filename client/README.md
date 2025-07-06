@@ -14,5 +14,8 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Live Demo
 
-[Click here to view the deployed app](https://assignment3-butichiivy.netlify.app/)
+[Click here to view the deployed app][here]
 
+
+
+[here]: https://assignment3-butichiivy.netlify.app/
