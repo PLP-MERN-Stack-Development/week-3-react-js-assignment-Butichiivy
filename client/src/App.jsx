@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import './App.css';
-import Quote from './components/Quote';
+import Quote from './components/quote';
+
 import TaskManager from './components/TaskManager';
 
 function App() {
